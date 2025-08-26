@@ -1,6 +1,4 @@
 # Css-Notes
-# CSS Notes
-
 ## Introduction
 - CSS stands for Cascading Style Sheets.
 - Used to style HTML elements.
